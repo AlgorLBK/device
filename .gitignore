@@ -45,3 +45,4 @@ media/
 # Local virtual environment
 venv/
 env/
+.vercel
